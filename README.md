@@ -3,4 +3,8 @@ A simple program
 
 A simple program
 
-Test
+```Python
+def test():
+    """Test."""
+    return "test"
+```
