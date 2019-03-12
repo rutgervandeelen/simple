@@ -5,6 +5,6 @@ A simple program
 
 ```Python
 def test():
-    """This is for testing."""
+    """This is a test."""
     return "test"
 ```
