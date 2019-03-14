@@ -1,2 +1,0 @@
-2019-03-14 12:19:47 - simple - INFO Creating settings
-2019-03-14 12:19:47 - simple - INFO Writing 'test.json'
