@@ -8,6 +8,10 @@ import os
 import json
 import logging
 
+def add(a, b):
+    """ Add two numbers """
+    return a + b
+
 def write_settings(settings, output_file):
     """ Write the settings to a JSON file
 
@@ -56,7 +60,7 @@ def main():
     logger.info(msg)
     settings = {
         'name' : 'test_machine',
-        'num_units' : 3
+        'num_units' : add(2, 3)
     }
 
     # Write the settings to a JSON file

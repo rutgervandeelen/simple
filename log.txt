@@ -1,2 +1,2 @@
-2016-04-06 16:51:52 - simple - INFO Creating settings
-2016-04-06 16:51:52 - simple - INFO Writing 'test.json'
+2019-03-14 12:19:47 - simple - INFO Creating settings
+2019-03-14 12:19:47 - simple - INFO Writing 'test.json'
