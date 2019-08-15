@@ -4,5 +4,3 @@
 [![](https://tokei.rs/b1/github/rutgervandeelen/simple)](https://github.com/Aaronepower/tokei)
 
 A simple program
-
-Test
